@@ -16,7 +16,7 @@ This section contains a general overview of topics that you will learn in this l
 
 - Get an overview of additional HTML elements and CSS concepts that will be covered in this course.
 
-### Assignment
+### Assignment.
 
 <div class="lesson-content__panel" markdown="1">
 
